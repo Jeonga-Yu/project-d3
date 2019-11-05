@@ -1,2 +1,5 @@
 # project-d3
- It is a chart project using d3 library.
+
+* * *
+
+## Various chart component projects using d3 library
